@@ -16,3 +16,9 @@ var editor = new MediumEditor('.editable', {
         }
  });
 ```
+
+```css
+.thaana {
+    direction: rtl;
+}
+```
